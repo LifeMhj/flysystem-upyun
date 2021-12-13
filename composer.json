@@ -1,12 +1,12 @@
 {
-    "name": "jellybool/flysystem-upyun",
+    "name": "/LifeMhj/flysystem-upyun",
     "description": "Flysystem and Laravel adapter for the Upyun storage.",
     "keywords": ["Laravel","upyun","又拍","又拍云"],
     "license": "MIT",
     "authors": [
         {
-            "name": "JellyBool",
-            "email": "jellybool@outlook.com"
+            "name": "Mhj",
+            "email": "mhj@outlook.com"
         }
     ],
     "require": {
